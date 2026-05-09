@@ -3,3 +3,9 @@
 /tests/pg_regress/regression.diffs
 /tests/pg_regress/regression.out
 /tests/pg_regress/results/
+.DS_Store
+**/.DS_Store
+/AI_DOCs/
+/compute_engine_integration/
+/integration_references/
+/prompts/
